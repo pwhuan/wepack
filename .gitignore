@@ -2,6 +2,7 @@
 node_modules
 like_share
 lk_speech
+dist
 
 # local env files
 .env.local
